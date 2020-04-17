@@ -1,1 +1,1 @@
-this is my script file
+0000this is my script file
